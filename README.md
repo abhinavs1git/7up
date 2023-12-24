@@ -1,4 +1,4 @@
-# first_one
+# 7up
 
 A new Flutter project.
 
